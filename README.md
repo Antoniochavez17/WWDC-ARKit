@@ -15,6 +15,9 @@ Convention Center.
 
 
 ## Review of WWDC
+## WWDC 1.3
+<img width="1440" alt="Screen Shot 2020-03-13 at 3 32 19 PM" src="https://user-images.githubusercontent.com/32586236/76657413-d6d74a80-653f-11ea-9458-affc5dcc5bcf.png">
+
 ## WWDC 1.2
 <img width="1280" alt="Screen Shot 2019-06-23 at 8 32 53 PM" src="https://user-images.githubusercontent.com/32586236/59985261-15198c00-95f6-11e9-8b4d-85a2bcbef733.png">
 
